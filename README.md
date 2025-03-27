@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagor Sutradhar</h1>
 <h3 align="center">Junior Penetration Tester | Certified Ethical Hacker | AI Enthusiast</h3>
 
-<img align="right" alt="hacking" width="400" src="https://raw.githubusercontent.com/sagorsisir/sagorsisir/main/hacking-themed-image.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagorsisir&label=Profile%20views&color=0e75b6&style=flat" alt="sagorsisir" /> </p>
 
 - 🎓 **BSc in Computer Science & Engineering (CSE)**
